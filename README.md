@@ -1,1 +1,3 @@
 # nperi1205-OTT-Platform-Revenue-and-Content-Analysis-through-Data-Visualization
+Executed an extensive revenue analysis across various OTT platforms, culminating in a Tableau dashboard that underscored Netflix’s revenue supremacy, shaping content monetization strategies.Created a media-centric Tableau dashboard, delivering pivotal insights such as “Top 10 Movie Directors on Netflix,” and mapping content trends over three decades, which steered strategic media planning and release schedules.Pioneered a genre-specific dashboard that illustrated genre popularity and content availability, conducting a thorough analysis of genre trends and movie durations, which directed a 22% surge in genre-targeted programming and marketing initiatives.
+
